@@ -1,0 +1,19 @@
+[
+	{
+		"productos": [
+			{
+				"idObject": 0,
+				"quantity": 5
+			},
+			{
+				"idObject": 3,
+				"quantity": 2
+			}
+		],
+		"idcart": 0
+	},
+	{
+		"productos": [],
+		"idcart": 1
+	}
+]

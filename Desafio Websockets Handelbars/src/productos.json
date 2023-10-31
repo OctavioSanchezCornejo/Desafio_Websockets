@@ -1,0 +1,46 @@
+[
+	{
+		"title": "Asus Laptop TUF",
+		"description": "Asus The Ultimate Forze",
+		"price": 900,
+		"thumbnail": "www.amazon.com/asus_tuf",
+		"code": 159,
+		"stock": 10,
+		"status": true,
+		"category": "laptops",
+		"id": 1
+	},
+	{
+		"title": "HP Latop Victus",
+		"description": "HP Victus Gray",
+		"price": 950,
+		"thumbnail": "www.amazon.com/hp_victus",
+		"code": 158,
+		"stock": 5,
+		"status": true,
+		"category": "laptops",
+		"id": 2
+	},
+	{
+		"title": "Acer Laptop Pradator",
+		"description": "Acer gaming Pradator",
+		"price": 1500,
+		"thumbnail": "www.amazon.com/acer_gamer",
+		"code": 160,
+		"stock": 15,
+		"status": true,
+		"category": "laptops",
+		"id": 3
+	},
+	{
+		"title": "david",
+		"description": "david",
+		"price": "1233",
+		"thumbnail": "www",
+		"code": "8000",
+		"stock": "5",
+		"status": "true",
+		"category": "perol",
+		"id": 0
+	}
+]
